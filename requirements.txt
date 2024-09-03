@@ -50,7 +50,7 @@ gast==0.2.0
 gevent==1.2.2
 glob2==0.5
 greenlet==0.4.12
-grpcio==1.11.0
+grpcio==1.53.2
 h5py==2.7.0
 heapdict==1.0.0
 html5lib==0.999999999
