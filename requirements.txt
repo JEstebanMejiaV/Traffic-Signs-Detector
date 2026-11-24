@@ -129,7 +129,7 @@ Pygments==2.2.0
 pygpu==0.7.5
 pylint==1.7.4
 pyodbc==4.0.17
-pyOpenSSL==17.2.0
+pyOpenSSL==26.0.0
 pyparsing==2.2.0
 PySocks==1.6.7
 pytest==3.2.1
